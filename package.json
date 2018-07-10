@@ -1,0 +1,22 @@
+{
+  "name": "esame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "area.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliagrego/trentose2jan12-exam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliagrego/trentose2jan12-exam/issues"
+  },
+  "homepage": "https://github.com/eliagrego/trentose2jan12-exam#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
